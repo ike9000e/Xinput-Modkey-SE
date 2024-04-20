@@ -1,3 +1,4 @@
+For TESV: Skyrim Special Edition, PC version.
 Gamepad to keyboard, buttons and analogue inputs remapping. Detailed options with auto-repeat and re-scaling. MCM SkyUI interface provided. 
 
 Description
